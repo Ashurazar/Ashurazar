@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Ashurazar/Ashurazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashurazar&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
